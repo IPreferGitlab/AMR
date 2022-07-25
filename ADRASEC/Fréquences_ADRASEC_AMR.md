@@ -1,7 +1,24 @@
-Fréquences ADRASEC
+---
+title: Fréquences ADRASEC
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \usepackage{fvextra}
+    \usepackage{titlesec}
+    \usepackage{hyperref}
+geometry: margin=2.5cm
+hyperrefoptions:
+- linktoc=all
+section-divs: true
+papersize: a4
+toc: false
+toc-depth: 3
+colorlinks: true
+toc-title: Sommaire
+...
 
 +----------------+---------------------+---------------------+
-| Bande          | CW                  | BLU                 |
+| **Bande**      | **CW**              | **BLU**             |
 +----------------+---------------------+---------------------+
 | 80 mètres      | A1 3.532 A2 3.582   | A3 3.632 A4 3.682   |
 +----------------+---------------------+---------------------+
@@ -30,9 +47,9 @@ Fréquences ADRASEC
 |                |                     |                     |
 +----------------+---------------------+---------------------+
 
-Transpondeur
+# Transpondeur
 
-2 mètres -- 70 cm
+2 mètres $\leftrightarrow$ 70 cm
 
 T1 145.450 / 432.425
 
