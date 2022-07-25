@@ -1,0 +1,20 @@
+![](Pictures/100002010000022F0000018E665E4BFB91992E97.png){width="14.799cm"
+height="10.5cm"}B
+
+MARINE
+
+O
+
+A
+
+D
+
+ECOUTEUR
+
+A
+
+S A
+
+UTILITAIRE
+
+R
