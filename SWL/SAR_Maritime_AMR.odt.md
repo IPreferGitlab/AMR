@@ -12,7 +12,7 @@ SAR Maritime HF (USB)
   8 MHz USB       8.2150
   --------------- -----------
 
-![](Pictures/10000201000000B900000062FA079F8EBB23510C.png){width="4.895cm"
+![](./media/Pictures/10000201000000B900000062FA079F8EBB23510C.png){width="4.895cm"
 height="2.593cm"}
 
 SEARCH

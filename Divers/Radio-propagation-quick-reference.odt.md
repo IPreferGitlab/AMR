@@ -1,6 +1,6 @@
 Radio-propagation-quick-reference
 
-![](Pictures/100000000000009B000002125BDC86E4FB9091C5.gif){width="1.459cm"
+![](./media/Pictures/100000000000009B000002125BDC86E4FB9091C5.gif){width="1.459cm"
 height="6.75cm"}
 
 Index A : plus l'indice est bas mieux c'est

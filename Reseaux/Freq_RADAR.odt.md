@@ -52,5 +52,5 @@ CW 28,328 USB HF-Pack (Cross-Mode)
 
 SSB 28,360 South Africa
 
-![](Pictures/100002010000007600000073C469DB328F72E778.png){width="2.028cm"
+![](./media/Pictures/100002010000007600000073C469DB328F72E778.png){width="2.028cm"
 height="1.977cm"}

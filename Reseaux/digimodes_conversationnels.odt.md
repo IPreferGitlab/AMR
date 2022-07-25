@@ -2,7 +2,7 @@ digimodes conversationnels
 
 Début en psk31 puis mfsk, Olivia, Halschreiber, ...
 
-![](Pictures/1000020100000098000001B33861EB1DB5B63736.png){width="2.831cm"
+![](./media/Pictures/1000020100000098000001B33861EB1DB5B63736.png){width="2.831cm"
 height="8.1cm"}3.680 -- 6.683 MHz
 
 7.040 -- 7.043 MHz

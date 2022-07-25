@@ -17,16 +17,17 @@ Réseaux EMCOM IARU Région 1
 |          |          | du mois  | UTC      |          |          |
 +----------+----------+----------+----------+----------+----------+
 | F![      | FR-EMCOM | Jeudi    | 20:00    |          | DMR TG   |
-| ](Pictur |          |          | Local    |          | 2080     |
-| es/10000 |          |          |          |          |          |
-| 20100000 |          |          |          |          | Sauf BM  |
-| 15100000 |          |          |          |          |          |
-| 084CE64F |          |          |          |          | Dstar    |
-| 363118E8 |          |          |          |          | DCS933U  |
-| CE4.png) |          |          |          |          |          |
-| {width=" |          |          |          |          | C4FM     |
-| 8.916cm" |          |          |          |          | YSF      |
-| height   |          |          |          |          | -Urgence |
+| ](./medi |          |          | Local    |          | 2080     |
+| a/Pictur |          |          |          |          |          |
+| es/10000 |          |          |          |          | Sauf BM  |
+| 20100000 |          |          |          |          |          |
+| 15100000 |          |          |          |          | Dstar    |
+| 084CE64F |          |          |          |          | DCS933U  |
+| 363118E8 |          |          |          |          |          |
+| CE4.png) |          |          |          |          | C4FM     |
+| {width=" |          |          |          |          | YSF      |
+| 8.916cm" |          |          |          |          | -Urgence |
+| height   |          |          |          |          |          |
 | ="3.493c |          |          |          |          |          |
 | m"}rance |          |          |          |          |          |
 | (fr)     |          |          |          |          |          |
@@ -92,5 +93,5 @@ Réseaux EMCOM IARU Région 1
 |          |          |          | semaine  |          |          |
 +----------+----------+----------+----------+----------+----------+
 
-![](Pictures/100002010000015100000084CE64F363118E8CE4.png){width="8.916cm"
+![](./media/Pictures/100002010000015100000084CE64F363118E8CE4.png){width="8.916cm"
 height="3.493cm"}

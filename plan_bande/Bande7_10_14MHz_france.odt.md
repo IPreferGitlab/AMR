@@ -4,8 +4,9 @@ BANDE 7 MHz
 
 +----------------+----------------+----------------+----------------+
 | Fréquence      | Bande passante | Modes          | Usage          |
-| (kHz)![]       | max (Hz)       |                |                |
-| (Pictures/1000 |                |                |                |
+| (k             | max (Hz)       |                |                |
+| Hz)![](./media |                |                |                |
+| /Pictures/1000 |                |                |                |
 | 02010000012300 |                |                |                |
 | 00019F66DD10C1 |                |                |                |
 | F2D0B6D2.png){ |                |                |                |

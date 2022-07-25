@@ -16,5 +16,5 @@ Région 2 : 7.060/7.240/7.275
 
 **15 mètres** -- Région 1, 2 & 3 : 21.360
 
-![](Pictures/10000201000001620000008F97EC5CF509E4F61F.png){width="9.366cm"
+![](./media/Pictures/10000201000001620000008F97EC5CF509E4F61F.png){width="9.366cm"
 height="3.784cm"}

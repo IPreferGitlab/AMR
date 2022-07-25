@@ -28,7 +28,8 @@ EMCOM IARU : Explication Message
 |                       | transmission (UTC)                          |
 +-----------------------+---------------------------------------------+
 | To : (BLOCK LETTERS): | Corps du                                    |
-|                       | message![](Pictures/10000201000001620       |
+|                       | me                                          |
+|                       | ssage![](./media/Pictures/10000201000001620 |
 |                       | 000008F97EC5CF509E4F61F.png){width="6.26cm" |
 |                       | height="2.529cm"}                           |
 +-----------------------+---------------------------------------------+

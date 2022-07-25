@@ -1,4 +1,4 @@
-![](Pictures/10000201000002300000018C5BCED8B8654D810B.png){width="14.736cm"
+![](./media/Pictures/10000201000002300000018C5BCED8B8654D810B.png){width="14.736cm"
 height="10.5cm"}FAX Weather Forecasts (UE)
 
   ------------- -------------- ----------- ------------- ----- -----

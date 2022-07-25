@@ -113,5 +113,5 @@ Réseau analogique Auvergne Rhône Alpes (ARA)
 |      |       |       |       |       |       |      |       |
 +------+-------+-------+-------+-------+-------+------+-------+
 
-![](Pictures/100000000000035200000272B9D3F21FA4504CFC.png){width="12.952cm"
+![](./media/Pictures/100000000000035200000272B9D3F21FA4504CFC.png){width="12.952cm"
 height="7.934cm"}
